@@ -1,0 +1,10 @@
+# Generic .gitignore
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+.venv/
+.env
+*.log
+
